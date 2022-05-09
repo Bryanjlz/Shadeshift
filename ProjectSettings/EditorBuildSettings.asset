@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: fde25601206f1574ebef891c2a6fc245
+  - enabled: 1
+    path: Assets/Scenes/Level Select.unity
+    guid: 7524961356857c24c8eb276382340f86
+  - enabled: 1
+    path: Assets/Scenes/Waking Up.unity
+    guid: ea1aa40c60e94ff429af2f0e9073dd4d
+  - enabled: 1
+    path: Assets/Scenes/Umbra.unity
+    guid: a89810bd00b02604bbd89202d1c25f92
+  - enabled: 1
+    path: Assets/Scenes/The Pit.unity
+    guid: 6eb396a545ee9ba45bb227ee8d89f949
+  - enabled: 1
+    path: Assets/Scenes/Phasing.unity
+    guid: f7a12c12302b13f48981110eb84ff56a
+  - enabled: 1
+    path: Assets/Scenes/Eyes Low.unity
+    guid: 77d6accb93d03c447b82222b94b6546a
+  - enabled: 1
+    path: Assets/Scenes/Grace.unity
+    guid: 35b81cebe063d154799200b666530197
+  - enabled: 1
+    path: Assets/Scenes/Tightrope.unity
+    guid: 0d30737e549686243ac9753fa9aeaf71
+  - enabled: 1
+    path: Assets/Scenes/Sweeper.unity
+    guid: 57f97601bdcb6d3438770dc86a7a502c
+  - enabled: 1
+    path: Assets/Scenes/Electrical.unity
+    guid: da718e1a473303d419772c5b9d299721
+  - enabled: 1
+    path: Assets/Scenes/Trust.unity
+    guid: 1f6b360806a9ebb40835ba84a2c80cde
+  - enabled: 1
+    path: Assets/Scenes/Solar.unity
+    guid: 756e228732939414a9901225b41ce235
+  - enabled: 1
+    path: Assets/Scenes/Cosmos.unity
+    guid: 82428655eb80c534380427fda0e14bd6
+  - enabled: 1
+    path: Assets/Scenes/Architect.unity
+    guid: faaa4ed5547b2b44eb0e856a7d31b8ab
+  - enabled: 1
+    path: Assets/Scenes/Sniper.unity
+    guid: 0ad5266ba4b7d304a8565e6c01c22e83
+  - enabled: 1
+    path: Assets/Scenes/This Tall To Ride.unity
+    guid: 911bc7cc611d7704d9ca6339ab7afb7a
+  - enabled: 1
+    path: Assets/Scenes/Deep Focus.unity
+    guid: 38711251d1c22224da6663b5fb92db03
+  - enabled: 1
+    path: Assets/Scenes/The Dropper.unity
+    guid: 9d6a492b52d2e6445aa786fa26b4c947
+  - enabled: 1
+    path: Assets/Scenes/Aristotle.unity
+    guid: 1425475ec00db2c4b894751e53c964c6
+  - enabled: 1
+    path: Assets/Scenes/Martyr.unity
+    guid: e29eb5cad929fda4abc62f97f42b4c07
+  - enabled: 1
+    path: Assets/Scenes/Companion.unity
+    guid: 28eccc8c8e7bb264cb2850488f755d98
+  - enabled: 1
+    path: Assets/Scenes/Hooligan.unity
+    guid: 35735925142d92a4b9ea284e553a520c
+  m_configObjects: {}

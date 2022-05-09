@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Piss
+  - Sipper
+  - PlayerReactor
+  - Crate
+  - NoCrateGround
+  - NoShadowGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Level
+    uniqueID: 1914225709
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: RenderMap
+    uniqueID: 528980507
+    locked: 0
+  - name: Outlines
+    uniqueID: 264821561
+    locked: 0
+  - name: Fade
+    uniqueID: 2206686843
+    locked: 0
